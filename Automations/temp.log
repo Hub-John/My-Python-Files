@@ -1,0 +1,1599 @@
+------------------------------------------------
+{'username': 'root', 'pid': 0, 'name': 'kernel_task', 'status': 'idle', 'cpu_percent': 0.0, 'meomory_percent': 0.0}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 1, 'name': 'launchd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.11308458116319445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 522, 'name': 'logd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.10825263129340278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 524, 'name': 'UserEventAgent', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.048912896050347224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 526, 'name': 'fseventsd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.028652615017361112}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 527, 'name': 'mediaremoted', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06349351671006945}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 530, 'name': 'systemstats', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03475613064236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 534, 'name': 'configd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04467434353298611}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 536, 'name': 'powerd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04543728298611111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 537, 'name': 'IOMFB_bics_daemon', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003814697265625}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 541, 'name': 'remoted', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.006273057725694444}
+------------------------------------------------
+------------------------------------------------
+{'username': '_corespeechd', 'pid': 545, 'name': 'corespeechd_system', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.0008477105034722222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 547, 'name': 'watchdogd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.006018744574652778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 551, 'name': 'mds', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.10621812608506945}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 553, 'name': 'kernelmanagerd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.008138020833333332}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 554, 'name': 'diskarbitrationd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.023820665147569444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 558, 'name': 'syslogd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.01068115234375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 560, 'name': 'thermalmonitord', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.013224283854166666}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 561, 'name': 'contextstored', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.05688137478298611}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 562, 'name': 'xprotectd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.044928656684027776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 563, 'name': 'opendirectoryd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.060272216796875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 564, 'name': 'apsd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.062052408854166664}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 565, 'name': 'launchservicesd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04323323567708333}
+------------------------------------------------
+------------------------------------------------
+{'username': '_timed', 'pid': 566, 'name': 'timed', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.019412570529513888}
+------------------------------------------------
+------------------------------------------------
+{'username': '_usbmuxd', 'pid': 567, 'name': 'usbmuxd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.007544623480902778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 568, 'name': 'securityd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.028398301866319444}
+------------------------------------------------
+------------------------------------------------
+{'username': '_locationd', 'pid': 570, 'name': 'locationd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.12461344401041667}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 573, 'name': 'autofsd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.0006781684027777778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 574, 'name': 'dasd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.10172526041666667}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 575, 'name': 'corerepaird', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.013817681206597222}
+------------------------------------------------
+------------------------------------------------
+{'username': '_distnote', 'pid': 577, 'name': 'distnoted', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.013309054904513888}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 581, 'name': 'logind', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.01102023654513889}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 582, 'name': 'revisiond', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.01983642578125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 583, 'name': 'KernelEventAgent', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.0012715657552083335}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 588, 'name': 'notifyd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.021870930989583336}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 590, 'name': 'corebrightnessd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03306070963541667}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 591, 'name': 'AirPlayXPCHelper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03246731228298611}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 592, 'name': 'com.apple.cmio.registerassistantservice', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03933376736111111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 595, 'name': 'WindowServer', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.641632080078125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 597, 'name': 'cfprefsd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.026448567708333332}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 598, 'name': 'loginwindow', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.1956515842013889}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 599, 'name': 'coreservicesd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.021531846788194444}
+------------------------------------------------
+------------------------------------------------
+{'username': '_analyticsd', 'pid': 600, 'name': 'analyticsd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.057135687934027776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 603, 'name': 'runningboardd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.08460150824652778}
+------------------------------------------------
+------------------------------------------------
+{'username': '_coreaudiod', 'pid': 605, 'name': 'coreaudiod', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.1514858669704861}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 612, 'name': 'apfsd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.012885199652777778}
+------------------------------------------------
+------------------------------------------------
+{'username': '_nsurlsessiond', 'pid': 613, 'name': 'nsurlsessiond', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04170735677083333}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 619, 'name': 'lsd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06239149305555555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 624, 'name': 'eligibilityd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.024159749348958336}
+------------------------------------------------
+------------------------------------------------
+{'username': '_windowserver', 'pid': 631, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 634, 'name': 'airportd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.1491970486111111}
+------------------------------------------------
+------------------------------------------------
+{'username': '_coreaudiod', 'pid': 636, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 640, 'name': 'authd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.026533338758680556}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 641, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.006527370876736111}
+------------------------------------------------
+------------------------------------------------
+{'username': '_mdnsresponder', 'pid': 642, 'name': 'mDNSResponder', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.05374484592013889}
+------------------------------------------------
+------------------------------------------------
+{'username': '_networkd', 'pid': 645, 'name': 'symptomsd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06569756401909722}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 659, 'name': 'mDNSResponderHelper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.004662407769097222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 660, 'name': 'socketfilterfw', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.007290310329861111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 661, 'name': 'syspolicyd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04925198025173611}
+------------------------------------------------
+------------------------------------------------
+{'username': '_coreaudiod', 'pid': 665, 'name': 'com.apple.audio.', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.004662407769097222}
+------------------------------------------------
+------------------------------------------------
+{'username': '_audiomxd', 'pid': 668, 'name': 'audiomxd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.056203206380208336}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 676, 'name': 'audioclocksyncd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.01025729709201389}
+------------------------------------------------
+------------------------------------------------
+{'username': '_cmiodalassistants', 'pid': 678, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': '_locationd', 'pid': 688, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': '_cmiodalassistants', 'pid': 689, 'name': 'com.apple.cmio.videodriverkithostextension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.017038981119791664}
+------------------------------------------------
+------------------------------------------------
+{'username': '_cmiodalassistants', 'pid': 690, 'name': 'appleh13camerad', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03306070963541667}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 694, 'name': 'suhelperd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.022294786241319444}
+------------------------------------------------
+------------------------------------------------
+{'username': '_modelmanagerd', 'pid': 696, 'name': 'modelmanagerd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.049506293402777776}
+------------------------------------------------
+------------------------------------------------
+{'username': '_softwareupdate', 'pid': 709, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 711, 'name': 'searchpartyd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.08426242404513888}
+------------------------------------------------
+------------------------------------------------
+{'username': '_driverkit', 'pid': 716, 'name': 'com.apple.DriverKit-AppleBCMWLAN', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.20802815755208334}
+------------------------------------------------
+------------------------------------------------
+{'username': '_audiomxd', 'pid': 717, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': '_driverkit', 'pid': 718, 'name': 'com.apple.DriverKit-IOUserDockChannelSerial', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003899468315972222}
+------------------------------------------------
+------------------------------------------------
+{'username': '_driverkit', 'pid': 719, 'name': 'com.apple.AppleUserHIDDrivers', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.012800428602430556}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 738, 'name': 'systemstats', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03382364908854167}
+------------------------------------------------
+------------------------------------------------
+{'username': '_accessoryupdater', 'pid': 743, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 768, 'name': 'com.docker.vmnetd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.00457763671875}
+------------------------------------------------
+------------------------------------------------
+{'username': '_cmiodalassistants', 'pid': 769, 'name': 'cameracaptured', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.017208523220486112}
+------------------------------------------------
+------------------------------------------------
+{'username': '_cmiodalassistants', 'pid': 770, 'name': 'UVCAssistant', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.018564860026041664}
+------------------------------------------------
+------------------------------------------------
+{'username': '_appleevents', 'pid': 807, 'name': 'appleeventsd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.01102023654513889}
+------------------------------------------------
+------------------------------------------------
+{'username': '_nsurlsessiond', 'pid': 828, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': '_mds_stores', 'pid': 836, 'name': 'mds_stores', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.2577887641059028}
+------------------------------------------------
+------------------------------------------------
+{'username': '_spotlight', 'pid': 890, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005933973524305555}
+------------------------------------------------
+------------------------------------------------
+{'username': '_installcoordinationd', 'pid': 894, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.006103515625}
+------------------------------------------------
+------------------------------------------------
+{'username': '_oahd', 'pid': 897, 'name': 'oahd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.002543131510416667}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 903, 'name': 'tccd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.07230970594618055}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 908, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.022549099392361112}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 930, 'name': 'lsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.0457763671875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 952, 'name': 'coreauthd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03416273328993056}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 972, 'name': 'UserEventAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.04704793294270833}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 979, 'name': 'universalaccessd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.058237711588541664}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 982, 'name': 'ContinuityCaptureAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.054168701171875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 984, 'name': 'pboard', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.04085964626736111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 990, 'name': 'AXVisualSupportAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.059254964192708336}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 993, 'name': 'rapportd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.07044474283854166}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 994, 'name': 'nsurlsessiond', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.05781385633680555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 996, 'name': 'usernoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.11605156792534722}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 997, 'name': 'lockoutagent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.014411078559027778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1002, 'name': 'usernotificationsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.051625569661458336}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1013, 'name': 'identityservicesd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.11418660481770833}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1016, 'name': 'sharingd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.15496148003472224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1019, 'name': 'WiFiAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06544325086805555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1024, 'name': 'imagent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06569756401909722}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1025, 'name': 'migrationhelper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.0008477105034722222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1031, 'name': 'sharedfilelistd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.02899169921875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1041, 'name': 'familycircled', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06069607204861111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1049, 'name': 'akd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08824666341145834}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 1071, 'name': 'filecoordinationd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04408094618055556}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1074, 'name': 'coreauthd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03721449110243056}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1082, 'name': 'siriinferenced', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.04026624891493056}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1086, 'name': 'CMFSyncAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.020429823133680556}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1087, 'name': 'fileproviderd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06476508246527778}
+------------------------------------------------
+------------------------------------------------
+{'username': '_ctkd', 'pid': 1099, 'name': 'ctkd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.011274549696180556}
+------------------------------------------------
+------------------------------------------------
+{'username': '_nearbyd', 'pid': 1105, 'name': 'nearbyd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04085964626736111}
+------------------------------------------------
+------------------------------------------------
+{'username': '_gamecontrollerd', 'pid': 1110, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1118, 'name': 'ControlCenter', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2951727973090278}
+------------------------------------------------
+------------------------------------------------
+{'username': '_applepay', 'pid': 1125, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1135, 'name': 'AccessibilityUIServer', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.038909912109375}
+------------------------------------------------
+------------------------------------------------
+{'username': '_appinstalld', 'pid': 1149, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1161, 'name': 'corespotlightd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3706190321180555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1166, 'name': 'corespeechd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.067901611328125}
+------------------------------------------------
+------------------------------------------------
+{'username': '_securityagent', 'pid': 1174, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1182, 'name': 'WindowManager', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.1010470920138889}
+------------------------------------------------
+------------------------------------------------
+{'username': '_appleevents', 'pid': 1185, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005933973524305555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1188, 'name': 'chronod', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.09087456597222222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1189, 'name': 'StatusKitAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.034247504340277776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1200, 'name': 'NotificationCenter', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.13342963324652776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1201, 'name': 'com.apple.CloudDocs.iCloudDriveFileProvider', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.029076470269097224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1204, 'name': 'ViewBridgeAuxiliary', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.029669867621527776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1211, 'name': 'diagnostics_agent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.032128228081597224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 1216, 'name': 'SubmitDiagInfo', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.028906928168402776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 1217, 'name': 'CrashReporterSupportHelper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.007544623480902778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1228, 'name': 'fontd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.04297892252604167}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1229, 'name': 'fontworker', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.00949435763888889}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1235, 'name': 'mdbulkimport', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.01593695746527778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1240, 'name': 'PhotosReliveWidget', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1241, 'name': 'SafariWidgetExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1242, 'name': 'CalendarWidgetExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03687540690104167}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1243, 'name': 'WeatherWidget', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.1910739474826389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1245, 'name': 'WorldClockWidget', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1247, 'name': 'UIKitSystem', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.048828125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1251, 'name': 'passd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.049591064453125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1258, 'name': 'avconferenced', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.04611545138888889}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1259, 'name': 'mediaremoteagent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.006357828776041667}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1262, 'name': 'useractivityd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03170437282986111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1297, 'name': 'ShortcutsWidgetExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1300, 'name': 'Notes', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2193874782986111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1301, 'name': 'FindMyWidgetPeople', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1303, 'name': 'Dock', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.10316636827256945}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1304, 'name': 'SystemUIServer', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.027211507161458332}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1305, 'name': 'Finder', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.110755072699653}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1306, 'name': 'HomeEnergyWidgetsExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1307, 'name': 'JournalWidgets', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.0}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1312, 'name': 'WallpaperAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.04247029622395833}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 1314, 'name': 'automountd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.0033060709635416665}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1315, 'name': 'AMPDeviceDiscoveryAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.009324815538194444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 1324, 'name': 'ctkahp', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.008477105034722222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1325, 'name': 'WallpaperAerialsExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.05510118272569445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1330, 'name': 'imklaunchagent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.029161241319444444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1331, 'name': 'CursorUIViewService', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.1026577419704861}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1333, 'name': 'HomeWidget', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.0}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1345, 'name': 'PeopleWidget_macOSExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1349, 'name': 'ctkahp', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.011359320746527778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1353, 'name': 'BatteriesAvocadoWidgetExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1355, 'name': 'com.apple.dock.extra', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.05552503797743055}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1360, 'name': 'com.apple.Notes.WidgetExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1364, 'name': 'ScreenTimeWidgetExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1366, 'name': 'StocksWidget', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.0}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1391, 'name': 'mdwrite', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.008477105034722222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1392, 'name': 'PodcastsWidget', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.0}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1400, 'name': 'AppleSpell', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.641208224826389}
+------------------------------------------------
+------------------------------------------------
+{'username': '_fpsd', 'pid': 1405, 'name': 'fairplayd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.009833441840277778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1408, 'name': 'icdd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.017038981119791664}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1421, 'name': 'NotificationAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.032128228081597224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1422, 'name': 'AirPlayUIAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.02297295464409722}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1425, 'name': 'TextInputMenuAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03509521484375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1552, 'name': 'PasswordBreachAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03204345703125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 1647, 'name': 'com.paragon-software.ntfsd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.025092230902777776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1796, 'name': 'RemindersWidgetExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1797, 'name': 'FindMyWidgetItems', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1798, 'name': 'TipsWidgetExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1800, 'name': 'JournalWidgetsSecure', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1825, 'name': 'Spotlight', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3928290473090278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 1887, 'name': 'bluetoothd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.11511908637152778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 1896, 'name': 'csimporter', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.0}
+------------------------------------------------
+------------------------------------------------
+{'username': '_driverkit', 'pid': 1943, 'name': 'IOUserBluetoothSerialDriver', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.008392333984375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 2093, 'name': 'WallpaperLegacyExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.00016954210069444444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 2094, 'name': 'WallpaperSequoiaExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 2095, 'name': 'WallpaperSonomaExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 2096, 'name': 'WallpaperMacintoshExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 2097, 'name': 'WallpaperDynamicExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 2098, 'name': 'NeptuneOneWallpaper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 2099, 'name': 'WallpaperGradientExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 2100, 'name': 'WallpaperImageExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 8.477105034722222e-05}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 2101, 'name': 'CVMServer', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.001864963107638889}
+------------------------------------------------
+------------------------------------------------
+{'username': '_rmd', 'pid': 2230, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 2378, 'name': 'peopled', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.05357530381944445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 2625, 'name': 'PAH_Extension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.055609809027777776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 2827, 'name': 'spotlightknowledged', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.010596381293402778}
+------------------------------------------------
+------------------------------------------------
+{'username': '_neuralengine', 'pid': 3945, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.005849202473958334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 4677, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.35247802734375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 4712, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3254360622829861}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 4714, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.368499755859375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 6367, 'name': 'PowerChime', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08731418185763888}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 9074, 'name': 'com.apple.mail.SpotlightIndexExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.041113959418402776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 11382, 'name': 'wifivelocityd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04560682508680556}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 12549, 'name': 'homed', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.167083740234375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 16144, 'name': 'milod', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.061882866753472224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 17227, 'name': 'WirelessRadioManagerd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04009670681423611}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 20864, 'name': 'QuickLookUIService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.13512505425347224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 21331, 'name': 'sysextd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.021786159939236112}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 21930, 'name': 'storeuid', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08680555555555555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 21936, 'name': 'appstoreagent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08417765299479166}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 22311, 'name': 'WhatsApp', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.039971245659722}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 22394, 'name': 'com.apple.SafariPlatformSupport.Helper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.09757147894965278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 24688, 'name': 'ShareSheetUI', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.1620822482638889}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 26869, 'name': 'audioaccessoryd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.10986328125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 30912, 'name': 'bash', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.0030517578125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 31014, 'name': 'mysqld', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.04179212782118056}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 31383, 'name': 'Terminal', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.5120171440972222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 31384, 'name': 'login', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03814697265625}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 31385, 'name': 'zsh', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.0035603841145833335}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 32754, 'name': 'AvatarPickerMemojiPicker', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.15860663519965276}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34414, 'name': 'DiskUnmountWatcher', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.0036451551649305555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34427, 'name': 'System Settings', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2270168728298611}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34431, 'name': 'GeneralSettings', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.08324517144097222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34432, 'name': 'AppleIDSettings', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.14784071180555555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34435, 'name': 'HeadphoneSettingsExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.062306722005208336}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34436, 'name': 'FamilySettings', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.09019639756944445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34437, 'name': 'VPN', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.061798095703125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34438, 'name': 'FollowUpSettingsExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06493462456597222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34439, 'name': 'ClassroomSettings', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06493462456597222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34443, 'name': 'SoftwareUpdateSettingsExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.08171929253472222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34486, 'name': 'LoginItems', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.14673868815104169}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34488, 'name': 'LegacyPluginEnablement', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06968180338541666}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34489, 'name': 'MediaExtensionsSettingsController', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.066375732421875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34490, 'name': 'DefaultExtensionEnablement', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.14207628038194445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34491, 'name': 'SettingsSystemExtensionController', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.060272216796875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34492, 'name': 'FSKitModuleManagement', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06781684027777778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 34653, 'name': 'assistantd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.1308865017361111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 35001, 'name': 'DisplaysExt', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.0995212131076389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 35005, 'name': 'DesktopSettings', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.08756849500868055}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 35011, 'name': 'GameCenterMacOSSettingsExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.11155870225694445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 35012, 'name': 'WalletSettingsExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.11079576280381945}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 35016, 'name': 'MouseExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.08714463975694445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 35021, 'name': 'Sound', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.11308458116319445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 38461, 'name': 'amsaccountsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.12190077039930555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 38505, 'name': 'ContextStoreAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.11588202582465278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 38833, 'name': 'universalAccessAuthWarn', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08561876085069445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 39036, 'name': 'VTDecoderXPCService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.053320990668402776}
+------------------------------------------------
+------------------------------------------------
+{'username': '_softwareupdate', 'pid': 41380, 'name': 'softwareupdated', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.13512505425347224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 42186, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.0431077745225694}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 44054, 'name': 'com.apple.Notes.SpotlightIndexExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.042046440972222224}
+------------------------------------------------
+------------------------------------------------
+{'username': '_diskimagesiod', 'pid': 44197, 'name': 'diskimagesiod', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.016615125868055556}
+------------------------------------------------
+------------------------------------------------
+{'username': '_networkd', 'pid': 47153, 'name': 'distnoted', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.006273057725694444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 51279, 'name': 'ServiceExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.17030504014756945}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 52760, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.8627149793836806}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 54479, 'name': 'studentd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.091552734375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 55101, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.592041015625}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 58421, 'name': 'callservicesd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.1240200466579861}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 59585, 'name': 'ScreenTimeAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06391737196180555}
+------------------------------------------------
+------------------------------------------------
+{'username': '_biome', 'pid': 60299, 'name': 'biomed', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06239149305555555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 60570, 'name': 'login', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03840128580729167}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 60571, 'name': 'zsh', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.0036451551649305555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 63101, 'name': 'QLPreviewGenerationExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.050269232855902776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 63585, 'name': 'IMAutomaticHistoryDeletionAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.024244520399305556}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 64127, 'name': 'Python', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.6047566731770833}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 64134, 'name': 'Python', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.09782579210069445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 64135, 'name': 'com.apple.SafariPlatformSupport.Helper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.09579128689236112}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 64161, 'name': 'containermanagerd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03874037000868056}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 64928, 'name': 'routined', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.145721435546875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 66555, 'name': 'spotlightknowledged.updater', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06222195095486111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 66636, 'name': 'IntelligencePlatformComputeService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.1190185546875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67072, 'name': 'Code', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.8713616265190972}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67076, 'name': 'chrome_crashpad_handler', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.04620022243923611}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67077, 'name': 'Code Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4012213812934028}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67078, 'name': 'Code Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.23473103841145834}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67082, 'name': 'Code Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.7039828830295138}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67083, 'name': 'Code Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.7910834418402778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67087, 'name': 'Code Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.365447998046875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67088, 'name': 'Code Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.31687418619791663}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67089, 'name': 'Code Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2605014377170139}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67090, 'name': 'Code Helper (Plugin)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.2188381618923612}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67091, 'name': 'Code Helper (Plugin)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3501044379340278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67092, 'name': 'Code Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2954271104600695}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67095, 'name': 'Code Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2832200792100695}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67100, 'name': 'zsh', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003475613064236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67105, 'name': 'zsh', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003475613064236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67106, 'name': 'zsh', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003475613064236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67107, 'name': 'zsh', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003475613064236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67108, 'name': 'zsh', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003475613064236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67109, 'name': 'zsh', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003475613064236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67110, 'name': 'zsh', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003475613064236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67111, 'name': 'zsh', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003475613064236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67113, 'name': 'zsh', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003475613064236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67411, 'name': 'pet', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.01110500759548611}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67413, 'name': 'Code Helper (Plugin)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.258636474609375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67450, 'name': 'zsh', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.003475613064236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67485, 'name': 'Code Helper (Plugin)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.4756944444444444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 67591, 'name': 'Code Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.24312337239583334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 69899, 'name': 'duetexpertd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3340827094184028}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 70663, 'name': 'mbuseragent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.01746283637152778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 74789, 'name': 'assetsubscriptiond', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04170735677083333}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 75982, 'name': 'ShareSheetUI', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.18369886610243055}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 76290, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4419114854600694}
+------------------------------------------------
+------------------------------------------------
+{'username': '_trustd', 'pid': 77439, 'name': 'trustd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.059000651041666664}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 77472, 'name': 'gamepolicyd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.08231268988715278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 77580, 'name': 'backupd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.033484564887152776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 77727, 'name': 'accountsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.18895467122395831}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 77753, 'name': 'trustd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06510416666666666}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 77781, 'name': 'secd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08299085828993055}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 77783, 'name': 'cfprefsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03382364908854167}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 78527, 'name': 'tccd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.074005126953125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 79202, 'name': 'mobileassetd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.11588202582465278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 79221, 'name': 'coreduetd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.12139214409722222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 79228, 'name': 'usermanagerd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.028483072916666668}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 79244, 'name': 'biometrickitd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03721449110243056}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 79252, 'name': 'pkd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.07417466905381945}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 79258, 'name': 'backupd-helper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.023820665147569444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 79265, 'name': 'secinitd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.05204942491319445}
+------------------------------------------------
+------------------------------------------------
+{'username': '_locationd', 'pid': 79271, 'name': 'com.apple.geod', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.07230970594618055}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 79300, 'name': 'proactived', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.07875230577256945}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 79339, 'name': 'wifip2pd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.07078382703993055}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 79345, 'name': 'suggestd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2032809787326389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 79840, 'name': 'com.apple.hiservices-xpcservice', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.020429823133680556}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 79848, 'name': 'CoreServicesUIAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.1293606228298611}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 79855, 'name': 'bird', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06900363498263888}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 79861, 'name': 'ShortcutsViewService', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.10045369466145833}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 79863, 'name': 'liveactivitiesd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.04865858289930556}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 79935, 'name': 'powerdatad', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06264580620659722}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 80234, 'name': 'aned', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03687540690104167}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 80825, 'name': 'com.apple.appkit.xpc.openAndSavePanelService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.2791510687934028}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 81304, 'name': 'heard', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.16301472981770831}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 81305, 'name': 'contactsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.13258192274305555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 81308, 'name': 'cloudd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.1339382595486111}
+------------------------------------------------
+------------------------------------------------
+{'username': '_fpsd', 'pid': 81338, 'name': 'adid', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04297892252604167}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 81421, 'name': 'securityd_system', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.021023220486111112}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 81431, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.9799533420138888}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 81434, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.5334642198350694}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 81437, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3844367133246528}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 81444, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.390625}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 81447, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3936767578125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 81630, 'name': 'ctkd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.04840426974826389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 81638, 'name': 'findmybeaconingd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.028737386067708332}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 81646, 'name': 'searchpartyuseragent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.09375678168402778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82540, 'name': 'Google Chrome', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 2.5839911566840277}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82563, 'name': 'chrome_crashpad_handler', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.041283501519097224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82571, 'name': 'Google Chrome Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.706821017795139}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82572, 'name': 'Google Chrome Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.7463243272569444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82573, 'name': 'Google Chrome Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.313568115234375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82580, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.5700005425347222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82591, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4940456814236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82595, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.3208177354600694}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82599, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.7917209201388888}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82600, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.8138020833333334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82604, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.311408148871528}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82606, 'name': 'Google Chrome Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2982245551215278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82607, 'name': 'Google Chrome Helper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3169589572482639}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82622, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.501675075954861}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82625, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.3702392578125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82626, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.6234063042534722}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82633, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3696865505642361}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82643, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.32598876953125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82646, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.0621812608506944}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82648, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2994961208767361}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82655, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.7009311252170138}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82674, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4976060655381944}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82675, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.151953803168403}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82680, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.8533901638454862}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82682, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4301283094618056}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82683, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.5744086371527778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82687, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.386810302734375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82688, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.68511962890625}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82694, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.484466552734375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82695, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3985087076822917}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82699, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.639004177517361}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82701, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.6049262152777778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82710, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4062228732638889}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82714, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.5354139539930556}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82723, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4578484429253472}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82725, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.5915323893229167}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82726, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3792656792534722}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82729, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3875732421875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82730, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3607008192274305}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82733, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4274156358506944}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82734, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.525326199001736}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82744, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.6121758355034723}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82751, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3009372287326389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82752, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.299072265625}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82754, 'name': 'com.apple.SafariPlatformSupport.Helper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.10121663411458333}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82762, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4192776150173611}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 82770, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2921210394965278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 83433, 'name': 'linkd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.07909138997395834}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 83476, 'name': 'Keychain Circle Notification', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06162855360243055}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 83513, 'name': 'AppSSOAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.16920301649305555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 83515, 'name': 'AppSSODaemon', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.07798936631944445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 84324, 'name': 'CallHistorySyncHelper', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08070203993055555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 84348, 'name': 'talagentd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08290608723958334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 84353, 'name': 'coreautha', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.09129842122395834}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 84366, 'name': 'contentlinkingd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.045013427734375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 84421, 'name': 'com.apple.quicklook.ThumbnailsAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.10511610243055555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 84686, 'name': 'systemsoundserverd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.05450778537326389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 84687, 'name': 'AccessibilityVisualsAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.18242730034722224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 84993, 'name': 'UsageTrackingAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.062306722005208336}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85082, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4475911458333333}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85259, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.2071397569444444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85316, 'name': 'DockHelper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.2121819390190972}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85346, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4512363009982639}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 85527, 'name': 'powerexperienced', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.028906928168402776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85549, 'name': 'CommCenter', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.077056884765625}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85550, 'name': 'CoreLocationAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.19005669487847224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 85551, 'name': 'nehelper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.03255208333333333}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85552, 'name': 'syncdefaultsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.1171535915798611}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 85557, 'name': 'ospredictiond', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.055016411675347224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 85562, 'name': 'audioanalyticsd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.052134195963541664}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 85564, 'name': 'rtcreportingd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.052727593315972224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85578, 'name': 'inputanalyticsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03755357530381944}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85582, 'name': 'SpeechSynthesisServerXPC', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.02432929144965278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85733, 'name': 'extensionkitservice', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.05586412217881945}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85734, 'name': 'neagent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.057898627387152776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85741, 'name': 'com.apple.appkit.xpc.openAndSavePanelService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.2740648057725695}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85744, 'name': 'QuickLookUIService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06925794813368055}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85748, 'name': 'appleaccountd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06552802191840278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85796, 'name': 'mapssyncd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.05645751953125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85851, 'name': 'TextThumbnailExtension', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.12969970703125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85884, 'name': 'GamePolicyAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06917317708333334}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 85901, 'name': 'recentsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.035010443793402776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86155, 'name': 'login', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04060533311631944}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86156, 'name': 'zsh', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.018056233723958336}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 86171, 'name': 'AppleCredentialManagerDaemon', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.05128648546006945}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86173, 'name': 'VTDecoderXPCService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.05628797743055555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86174, 'name': 'donotdisturbd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.09095933702256945}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86175, 'name': 'AuthenticationServicesAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06425645616319445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86176, 'name': 'findmylocateagent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.07358127170138888}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86177, 'name': 'keychainsharingmessagingd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.023057725694444444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86180, 'name': 'mediaanalysisd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.096893310546875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86406, 'name': 'BiomeAgent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08587307400173612}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86416, 'name': 'tipsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.07866753472222222}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86527, 'name': 'SoftwareUpdateNotificationManager', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.16021728515625}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86529, 'name': 'nbagent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.1819186740451389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 86679, 'name': 'PerfPowerServices', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.11452568901909722}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 86747, 'name': 'transparencyd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.10774400499131945}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 87403, 'name': 'Wi-Fi', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.5080329047309028}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 87594, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.615268283420139}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 88132, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.9184943305121528}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 88178, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.5476209852430556}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 88674, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.5326165093315972}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 89493, 'name': 'TextInputSwitcher', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.13190375434027776}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 89494, 'name': 'CharacterPalette', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.5858527289496528}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 89724, 'name': 'LookupViewService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.25838216145833337}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 89796, 'name': 'UserNotificationCenter', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.10443793402777778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 89959, 'name': 'com.apple.appkit.xpc.openAndSavePanelService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.3941853841145833}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 89960, 'name': 'QuickLookUIService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.0995212131076389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94057, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.37740071614583337}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94174, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.426612006293403}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94206, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 1.2914869520399306}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94210, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4881117078993056}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94215, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.5881415473090278}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94220, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3426445855034722}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94227, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.7830301920572916}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94230, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.406646728515625}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94231, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4442003038194444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94234, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4280938042534722}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94235, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.412750244140625}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94238, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.567203097873264}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94241, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.34586588541666663}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94242, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2977159288194445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94255, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.2910190158420139}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94258, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.321197509765625}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94270, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3780788845486111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94273, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.6838480631510417}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94280, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.6246778700086806}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94281, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.628662109375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94284, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3915574815538194}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94285, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3859625922309028}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94286, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.540500217013889}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94287, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3717210557725695}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94290, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.7105509440104167}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94291, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.5432976616753472}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 94294, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.625186496310764}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 95490, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.9885999891493056}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 96393, 'name': 'mysql', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.003390842013888889}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98200, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.4119025336371528}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98314, 'name': 'localizationswitcherd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03679063585069444}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98342, 'name': 'intelligenceflowd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.0335693359375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98345, 'name': 'assessmentagent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.030178493923611112}
+------------------------------------------------
+------------------------------------------------
+{'username': '_gamecontrollerd', 'pid': 98347, 'name': 'gamecontrollerd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04603068033854167}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98348, 'name': 'gamecontrolleragentd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03924899631076389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98351, 'name': 'feedbackd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03263685438368056}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98359, 'name': 'analyticsagent', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.045013427734375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98362, 'name': 'commerce', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03331502278645833}
+------------------------------------------------
+------------------------------------------------
+{'username': '_applepay', 'pid': 98365, 'name': 'nfcd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04391140407986111}
+------------------------------------------------
+------------------------------------------------
+{'username': '_applepay', 'pid': 98368, 'name': 'NFStorageServer', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.02356635199652778}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98373, 'name': 'replayd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.10282728407118055}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98384, 'name': 'mdworker_shared', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.07976955837673612}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98432, 'name': 'com.apple.geod', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.0946044921875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 98433, 'name': 'com.apple.geod', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08646647135416666}
+------------------------------------------------
+------------------------------------------------
+{'username': '_cmiodalassistants', 'pid': 98434, 'name': 'com.apple.geod', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08943345811631945}
+------------------------------------------------
+------------------------------------------------
+{'username': '_networkd', 'pid': 98435, 'name': 'com.apple.geod', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.08409288194444445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 98436, 'name': 'secinitd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06315443250868055}
+------------------------------------------------
+------------------------------------------------
+{'username': '_cmiodalassistants', 'pid': 98437, 'name': 'secinitd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06323920355902778}
+------------------------------------------------
+------------------------------------------------
+{'username': '_networkd', 'pid': 98438, 'name': 'secinitd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06315443250868055}
+------------------------------------------------
+------------------------------------------------
+{'username': '_cmiodalassistants', 'pid': 98439, 'name': 'cfprefsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03611246744791667}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 98440, 'name': 'containermanagerd_system', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.04993014865451389}
+------------------------------------------------
+------------------------------------------------
+{'username': '_networkd', 'pid': 98441, 'name': 'cfprefsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.03619723849826389}
+------------------------------------------------
+------------------------------------------------
+{'username': '_cmiodalassistants', 'pid': 98442, 'name': 'trustd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06518893771701388}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 98443, 'name': 'containermanagerd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.049591064453125}
+------------------------------------------------
+------------------------------------------------
+{'username': '_networkd', 'pid': 98444, 'name': 'trustd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.06510416666666666}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 98445, 'name': 'trustdFileHelper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.045013427734375}
+------------------------------------------------
+------------------------------------------------
+{'username': '_cmiodalassistants', 'pid': 98446, 'name': 'containermanagerd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.049082438151041664}
+------------------------------------------------
+------------------------------------------------
+{'username': '_networkd', 'pid': 98447, 'name': 'containermanagerd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.05145602756076389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98454, 'name': 'AppPredictionIntentsHelperService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.17106797960069445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98456, 'name': 'ContainerMetadataExtractor', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.05815294053819445}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98457, 'name': 'siriactionsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.3444247775607639}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98458, 'name': 'CloudTelemetryService', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.06561279296875}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 98459, 'name': 'online-auth-agent', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.02288818359375}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 98460, 'name': 'osanalyticshelper', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.055694580078125}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98461, 'name': 'AssetCacheLocatorService', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.052727593315972224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98462, 'name': 'mobiletimerd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.07765028211805555}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98465, 'name': 'BackgroundShortcutRunner', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.2795749240451389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98472, 'name': 'Google Chrome Helper (Renderer)', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.658077663845486}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98473, 'name': 'axassetsd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.07052951388888888}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98476, 'name': 'calaccessd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.15402899848090276}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98477, 'name': 'remindd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.18641153971354169}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98478, 'name': 'communicationtrustd', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.1034206814236111}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 98479, 'name': 'sandboxd', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.032891167534722224}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98484, 'name': 'sudo', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.05450778537326389}
+------------------------------------------------
+------------------------------------------------
+{'username': 'admin', 'pid': 98485, 'name': 'sudo', 'status': 'sleeping', 'cpu_percent': 0.0, 'meomory_percent': 0.00796847873263889}
+------------------------------------------------
+------------------------------------------------
+{'username': 'root', 'pid': 98486, 'name': 'Python', 'status': 'running', 'cpu_percent': 0.0, 'meomory_percent': 0.12961493598090276}
+------------------------------------------------
+__________________________________________________
+
+Marvellous Platform Servillence System
+__________________________________________________
+
+Invalid number of argument
+Unable to proceed as argument are not matching
+Please use --h or --u flag getting more details
+__________________________________________________
+
+Than you for using out Automation System
+__________________________________________________
