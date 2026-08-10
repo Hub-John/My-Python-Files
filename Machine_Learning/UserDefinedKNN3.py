@@ -1,0 +1,38 @@
+import numpy as np
+import math
+
+def MarvellousEucDistance(P1, P2):
+    Ans = math.sqrt((P1['X'] - P2['X']) + (P1['Y'] - P2['Y']))
+    return Ans
+
+# User Defined KNN Classification
+def MarvellousKNNClassifire():
+    border= "-"*40
+
+    Data = [
+        {'point' : 'A' , 'X' : 1, 'Y' : 2, 'Label' : 'Red'},
+        {'point' : 'B' , 'X' : 2, 'Y' : 3, 'Label' : 'Red'},
+        {'point' : 'C' , 'X' : 3, 'Y' : 1, 'Label' : 'Blue'},
+        {'point' : 'D' , 'X' : 5, 'Y' : 6, 'Label' : 'Blue'}
+    ]
+
+    print(border)
+    print("Marvellous KNN Classifier")
+    print(border)
+
+    for i in Data:
+        print(i)
+
+    print(border)
+
+    new_point = {'X' : 3, 'Y' : 3}
+
+    Result = MarvellousEucDistance(Data[0], new_point)
+
+    print("Distance is: ", Result)
+
+def main():
+    MarvellousKNNClassifire()
+
+if __name__ == "__main__":
+    main()
