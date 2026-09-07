@@ -204,6 +204,6 @@ print(new_student)
 print("\nPrediction probability: ", new_probablity)
 
 if new_prediction[0] == 1:
-    print("\nPrediction : Placed\n")
+    print("\nPrediction is: Placed\n")
 else:
-    print("\nPrediction : Not Placed\n")
+    print("\nPrediction is: Not Placed\n")
