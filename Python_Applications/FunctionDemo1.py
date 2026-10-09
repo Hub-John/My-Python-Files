@@ -1,5 +1,5 @@
-# Repative work
-# Example: Bhajiwala, Salon
+# Repetitive work
+# Example: Bhajiwala, Salonwala
 
 def Display():
     print("Inside Display")

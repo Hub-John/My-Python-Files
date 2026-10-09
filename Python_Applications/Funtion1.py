@@ -5,9 +5,9 @@ def main():
     print("Enter Second Numer:")
     value2 = int(input())
 
-    Ret = value1 + value2       #Business logic
+    Ret = value1 + value2       # Business logic
 
-    print("Addition is: ", Ret)
+    print("Addition is:", Ret)
 
 # Starter Code
 if __name__ == "__main__":      #True #__name = what is name?

@@ -5,7 +5,7 @@ def main():
     print("Enter Second Numer:")
     value2 = int(input())
 
-    Ret = Addition(value1, value2)  #Error already is here to just demo
+    Ret = Addition(value1, value2)  # Error already is here to just demo
 
     print("Addition is: ", Ret)
 

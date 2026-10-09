@@ -1,9 +1,9 @@
-# Type Casting is Tempory
+# Type Casting is Temporary
 
 print("Enter First Number: ")
 No1 = input()
 
-print("Enter Secondd Number: ")
+print("Enter Second Number: ")
 No2 = input()
 
 Ans = int(No1) + int(No2)

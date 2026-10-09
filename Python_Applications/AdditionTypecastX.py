@@ -6,4 +6,4 @@ No2 = int(input())
 
 Ans = No1 + No2
 
-print("Addition is: ", Ans)
+print("Addition is:", Ans)

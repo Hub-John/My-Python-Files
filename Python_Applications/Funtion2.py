@@ -1,7 +1,7 @@
-def Addition(No1, No2): #Inside Bracket Parameters
-    ans = 0             #Local Variable(It is int)
-    ans = No1 + No2     #Business logic
-    return ans          #who ever call this funtion it will return
+def Addition(No1, No2): # Inside Bracket Parameters
+    ans = 0             # Local Variable(It is int)
+    ans = No1 + No2     # Business logic
+    return ans          # who ever call this funtion it will return
 
 def main():
     print("Enter first Numer:")
@@ -12,10 +12,9 @@ def main():
 
     Ret = Addition(value1, value2)
 
-    print("Addition is: ", Ret)
+    print("Addition is:", Ret)
 
 if __name__ == "__main__":      #True #__name = what is your name?
     main()
-
 
 # Example: Bhaji & Ice Cream Vender

@@ -9,11 +9,11 @@ def main():
 
     Ret = Addition(value1, value2)
 
-    print("Addition is: ", Ret)
+    print("Addition is:", Ret)
 
     Ret = Substraction(value1, value2)      #Error
 
-    print("Substraction is: ", Ret)
+    print("Substraction is:", Ret)
 
 if __name__ == "__main__":      #True #__name = what is your name?
     main()
